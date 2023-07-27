@@ -1,0 +1,20 @@
+img{
+    height: 45%;
+    width: 45%;
+}
+.container-1{
+    display: grid;
+    grid-template-columns: 39% 39% 39%;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    gap: 10px;
+    padding: 20px;
+}
+.item-1{
+    background-color: yellowgreen;
+    color: blue;
+    border: 1px solid blue;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
